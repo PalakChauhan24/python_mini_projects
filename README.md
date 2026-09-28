@@ -2,7 +2,7 @@
 
 Just me, Python, and a questionable amount of debugging 💀
 
-This repo is a collection of mini projects I’ve built while learning Python through **freeCodeCamp**[freeCodeCamp](https://www.freecodecamp.org/).
+This repo is a collection of mini projects I’ve built while learning Python through **[freeCodeCamp](https://www.freecodecamp.org/)**.
 
 Nothing too crazy — just building stuff, breaking stuff, fixing stuff, and slowly getting better at Python.🐍
 
