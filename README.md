@@ -10,6 +10,8 @@ Nothing too crazy — just building stuff, breaking stuff, fixing stuff, and slo
 
 ### 1. ⚔️ RPG Character
 Creates and validates an RPG character with attributes such as Strength, Intelligence, and Charisma.
+### 2. 🍳 Kitchen Inventory Tracker
+A Python project for managing and tracking items in a kitchen inventory.
 
 ---
 ## 🧠 Stuff I'm Learning
