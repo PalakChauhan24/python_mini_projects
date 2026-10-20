@@ -12,7 +12,8 @@ Nothing too crazy — just building stuff, breaking stuff, fixing stuff, and slo
 Creates and validates an RPG character with attributes such as Strength, Intelligence, and Charisma.
 ### 2. 🍳 Kitchen Inventory Tracker
 A Python project for managing and tracking items in a kitchen inventory.
-### 3.
+### 3. 💼 Employee Profile Generator
+A beginner-friendly Python project that creates an employee information card using variables, string concatenation, type conversion, f-strings, and string slicing.
 ### 3. 👩‍💻 Employee Profile Validator
 A Python project that cleans and validates employee profile data using string manipulation techniques, including email processing, name formatting, phone number cleaning, and employee code checks.
 
